@@ -1,5 +1,7 @@
 # Admin Dashboard
-Admin Dashboard shows various statistics of data that a modern app dashboard contains. The project is built with React.js, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid and is an inspiration from a tutorial by Ed Goh on the same field.. This application consists of Light and Dark Mode, 4 different Charts, 3 different Data Table Pages, FAQ Page, Form Page, and Calendar Integration.
+Admin Dashboard shows various statistics of data that a modern app dashboard contains. The project is built with React.js, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid.
+
+This application consists of Light and Dark Mode, 4 different Charts, 3 different Data Table Pages, FAQ Page, Form Page, and Calendar Integration. This project is an inspiration from a tutorial by Ed Goh on the same field.
 
 ## Live Demo
 
